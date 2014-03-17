@@ -374,8 +374,6 @@ namespace Depressurizer {
             // chkIgnoreExternal
             // 
             resources.ApplyResources(this.chkIgnoreExternal, "chkIgnoreExternal");
-            this.chkIgnoreExternal.Checked = true;
-            this.chkIgnoreExternal.CheckState = System.Windows.Forms.CheckState.Checked;
             this.chkIgnoreExternal.Name = "chkIgnoreExternal";
             this.chkIgnoreExternal.UseVisualStyleBackColor = true;
             // 

@@ -54,7 +54,7 @@ namespace Depressurizer {
         public bool IgnoreDlc = true;
 
         // jpodadera. Ignored non-Steam games
-        public bool IgnoreExternal = true;
+        public bool IgnoreExternal = false;
 
         public int ImportSteamData() {
             //string filePath = string.Format( Properties.Resources.ConfigFilePath, Settings.Instance().SteamPath, ID64toDirName( SteamID64 ) );
