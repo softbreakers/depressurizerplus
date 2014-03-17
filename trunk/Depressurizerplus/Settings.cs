@@ -132,7 +132,7 @@ namespace Depressurizer {
             }
         }
 
-        private bool _ignoreExternal = true;
+        private bool _ignoreExternal = false;
         public bool IgnoreExternal
         {
             get
