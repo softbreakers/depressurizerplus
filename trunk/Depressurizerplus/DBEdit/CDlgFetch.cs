@@ -2,7 +2,7 @@
 Copyright 2014 Juan Luis Podadera.
 
 This file is part of Depressurizer+.
-https://code.google.com/p/repressurizer/
+https://code.google.com/p/depressurizerplus/
 
 Depressurizer+ is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
